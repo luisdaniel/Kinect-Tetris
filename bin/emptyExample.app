@@ -1,0 +1,1 @@
+/Users/luisdaniel12/Library/Developer/Xcode/DerivedData/emptyExample-gcjdirxuyalgrhaohelbxbjpmcxj/ArchiveIntermediates/emptyExample/InstallationBuildProductsLocation/Users/luisdaniel12/Applications/emptyExample.app
